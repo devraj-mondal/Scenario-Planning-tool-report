@@ -13,6 +13,11 @@ Scenario planning tool helps policy-makers and firms anticipate change, prepare 
 
 Msexcel,pivot table ,power pivot 
 
+
+## live Report
+https://mondaldevraj-my.sharepoint.com/:x:/g/personal/devraj_mondaldevraj_onmicrosoft_com/EZhQyB_xAlROobrr6Kq1lMEBUotUuJEo92hJkoAdb1lJAQ?e=FoThPy
+
+
 ## Screenshots
 
 ![Screenshot (16)](https://github.com/devraj-mondal/Scenario-Planning-tool-report/assets/64974135/14e747f8-521e-4917-a7d8-f0f313e747e5)
